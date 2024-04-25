@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624478628744",
+    "project_id": "studify-5f434",
+    "storage_bucket": "studify-5f434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624478628744:android:6299b8eaf55a11a63c283d",
+        "android_client_info": {
+          "package_name": "com.studify.studify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEyB_6qU9FwvczzEooHMWAMp93psalNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
